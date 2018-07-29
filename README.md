@@ -1,6 +1,6 @@
 # MDP
 
-##Overview: 
+## Overview: 
 
 To build a robotic system that can
 
@@ -17,6 +17,6 @@ way point.
 
  Simulate physical robot and algorithms in software
 
-##Checklist: 
+## Checklist: 
 
 ![alt text](https://raw.githubusercontent.com/boonleng94/MDP-Algorithm/master/Algo%20Checklist.PNG)
