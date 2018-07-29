@@ -1,10 +1,8 @@
 # MDP
 
-Overview: 
-
+##Overview: 
 
 To build a robotic system that can
-
 
  Autonomously explore + traverse an unknown area, avoiding
 obstacles
@@ -19,6 +17,6 @@ way point.
 
  Simulate physical robot and algorithms in software
 
-Checklist: 
+##Checklist: 
 
 ![alt text](https://raw.githubusercontent.com/boonleng94/MDP-Algorithm/master/Algo%20Checklist.PNG)
